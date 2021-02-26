@@ -1,0 +1,7 @@
+lambda-auth in Redex
+
+A [[https://docs.racket-lang.org/redex/][Redex]] implementation of parts of Miller, Hicks, Katz and Shi's 2014 POPL paper
+[[https://amiller.github.io/lambda-auth/paper.html][Authenticated Data Structures, Generically]].
+
+Also of interest, their OCaml implementation: [[https://github.com/amiller/lambda-auth]]
+
